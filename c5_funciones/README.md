@@ -1,4 +1,4 @@
-###Ejercios Digital House: Clase 5 - Funciones Simples y Funciones Flecha###
+### Ejercios Digital House: Clase 5 - Funciones Simples y Funciones Flecha
 
 1. Función que convierte pulgadas en centímetros.
 Recibe por parámetro pulgadas y retorna su equivalente en centímetros.
